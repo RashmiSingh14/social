@@ -1,0 +1,23 @@
+.navbar {
+  /* border-bottom: 1px solid #e1e1e1e1; */
+  border-bottom: 1px solid rgba(var(--b6a, 219, 219, 219), 1);
+}
+
+.navbar-custom {
+  height: 50px;
+}
+
+.logo {
+  height: 50px;
+  border-radius: 10px;
+}
+
+.my-nav {
+  float: right;
+}
+.welcome {
+  color: #fff;
+}
+.navbarsections {
+  margin-right: 160px;
+}
